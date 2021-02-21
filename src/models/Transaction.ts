@@ -1,4 +1,5 @@
-import { v4 as uuid } from 'uuid';
+/* eslint-disable prettier/prettier */
+import { uuid } from 'uuidv4';
 
 class Transaction {
   id: string;
